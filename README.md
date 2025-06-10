@@ -55,7 +55,6 @@ Este repositorio contiene el trabajo realizado como parte de la **evaluación fi
 
 * Python, Pandas, Matplotlib, Seaborn, scikit-learn (KNNImputer)
 * Código comentado y modular (funciones separadas por tarea)
-* Exploración guiada como si estuviera trabajando con mi profe de Adalab :)
 
 ---
 
