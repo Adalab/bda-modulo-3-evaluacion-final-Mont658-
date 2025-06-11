@@ -16,7 +16,7 @@ Este repositorio contiene el trabajo realizado como parte de la **evaluación fi
 * Eliminación de columnas irrelevantes como `Country`.
 * Reemplazo de nulos en:
 
-  * `Salary`: primero corregí los valores negativos, y luego imputé los nulos con KNN.
+  * `Salary`: primero corregí los valores negativos, y luego imputé los nulos con SimpleImputer.
   * `Cancellation Month`: convertí los nulos en 'No'.
 * Conversión de columnas de mes numérico a nombre en inglés como variable categórica ordenada.
 
